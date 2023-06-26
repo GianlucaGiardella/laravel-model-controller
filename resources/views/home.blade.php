@@ -2,5 +2,5 @@
 
 
 @section('content')
-<h1>Pagina introduttiva</h1>
+<h1 class="text-light">Benvenuto sul Laravel Movies</h1>
 @endsection
