@@ -6,8 +6,9 @@
     <title>Laravel Model Controller</title>
     @vite('resources/js/app.js')
 </head>
-<body>
+<body class="bg-dark">
     @include('partials.header')
+    <hr class="border-light">
     <div class="container">
         @yield('content')
     </div>
